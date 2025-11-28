@@ -1,2 +1,2 @@
-ttkbootsrap
+ttkbootstrap
 mysql-connector-python
